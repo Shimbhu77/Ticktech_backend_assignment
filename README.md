@@ -5,7 +5,7 @@ This simple PHP application fetches data from the JSONPlaceholder API and displa
 ## How to Run the Application
 
 1. Make sure you have PHP installed on your system.
-2. Access the PHP application by opening the `index.php` file in a web browser. If you are using a local server environment, access it using the server's URL (e.g., `[localhost](http://localhost/firstphp/)`).
+2. Access the PHP application by opening the `index.php` file in a web browser. If you are using a local server environment, access it using the server's URL (e.g., [localhost](http://localhost/firstphp/) ).
 
 ## Features
 
